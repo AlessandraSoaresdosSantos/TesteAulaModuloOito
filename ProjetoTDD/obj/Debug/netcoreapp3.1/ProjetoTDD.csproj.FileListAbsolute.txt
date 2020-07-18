@@ -1,0 +1,9 @@
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.deps.json
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.dll
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\bin\Debug\netcoreapp3.1\ProjetoTDD.pdb
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.csprojAssemblyReference.cache
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.AssemblyInfo.cs
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.dll
+C:\Users\aless\source\repos\TesteAulaModuloOito\ProjetoTDD\obj\Debug\netcoreapp3.1\ProjetoTDD.pdb
